@@ -1,0 +1,3 @@
+TC: 10139953078, Ad: Efekan, Soyad: Adalı, Cinsiyet: Erkek, Tel: 5312418153, E-posta: efekan@gmail.com, Bölüm: Dahiliye, Parola: 1234
+TC: 10139953079, Ad: taha, Soyad: özdemir, Cinsiyet: Erkek, Tel: 5312418153, E-posta: taha@gmail.com, Bölüm: Kardiyoloji, Parola: 12345 
+TC: 10382411202, Ad: MUSTAFA, Soyad: ÖZDEMİR, Cinsiyet: Erkek, Tel: 5436141148, E-posta: mustafaozdemir.py@gmail.com, Bölüm: Genel Cerrahi, Parola: 12345

@@ -1,0 +1,9 @@
+T.C.: 10541812888, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2024-12-12, Saat: 11:00
+T.C.: 10541812888, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2024-12-11, Saat: 09:00
+T.C.: 10382411202, Branş: Genel Cerrahi, Doktor: MUSTAFA ÖZDEMİR (TC: 10382411202), Tarih: 2024-12-11, Saat: 14:00
+T.C.: 10382411202, Branş: Dahiliye, Doktor: Efekan Adalı (TC: 10139953078), Tarih: 2024-12-21, Saat: 09:00
+T.C.: 10382411202, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2024-12-22, Saat: 16:00
+T.C.: 10382411202, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2024-12-23, Saat: 09:00
+T.C.: 10382411202, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2024-12-22, Saat: 11:00
+T.C.: 10382411202, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2024-12-23, Saat: 11:00
+T.C.: 10382411202, Branş: Kardiyoloji, Doktor: taha özdemir (TC: 10139953079), Tarih: 2025-01-09, Saat: 09:00
